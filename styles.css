@@ -1,0 +1,39 @@
+body {
+    background-color: #393053;
+}
+
+h1 {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: lightgray;
+    text-align: center;
+    font-size: 3rem;
+}
+
+p {
+    color: lightgray;
+    font-family: 'Russo One', sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    font-size: 40px;
+}
+
+.node {
+    background-color: #393053;
+    border-color: #635985;
+    border-style: solid;
+    border-width: 0.5rem;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+#nodes {
+    background-color: #18122B;
+    border: 20px solid #635985;
+    height: 1000px;
+    border-radius: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
